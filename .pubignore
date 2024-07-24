@@ -10,7 +10,7 @@
 # Ignore .vscode settings
 /.vscode/
 # /screenshots/antinna_copyrights.png
-
+/images/
 /.idea/
 /*.iml
 
