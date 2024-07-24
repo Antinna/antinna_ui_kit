@@ -146,7 +146,7 @@ Then run `flutter pub get` to install the package.
 
 Check out the demo video of the `ConnectivityBannerHost` widget:
 
-[![ConnectivityBannerHost Demo](https://github.com/Antinna/antinna_ui_kit/raw/main/images/ConnectivityBannerHost.png)](https://github.com/Antinna/antinna_ui_kit/blob/main/videos/ConnectivityBannerHost.mp4)
+[![ConnectivityBannerHost Demo](https://github.com/Antinna/antinna_ui_kit/raw/main/images/ConnectivityBannerHost.gif)](https://github.com/Antinna/antinna_ui_kit/raw/main/videos/ConnectivityBannerHost.mp4)
 
 
 ## Acknowledgements
