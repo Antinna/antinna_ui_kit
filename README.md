@@ -141,6 +141,15 @@ dependencies:
 
 Then run `flutter pub get` to install the package.
 
+## ConnectivityBannerHost Demo
+
+Check out the demo video of the `ConnectivityBannerHost` widget below:
+
+<video width="600" controls>
+  <source src="https://github.com/Antinna/antinna_ui_kit/blob/main/videos/ConnectivityBannerHost.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Acknowledgements
 
 Special thanks to [Simon Lightfoot](https://github.com/slightfoot) for his inspiration and contributions to the Flutter community.
