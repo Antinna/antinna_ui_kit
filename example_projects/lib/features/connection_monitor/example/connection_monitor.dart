@@ -20,6 +20,9 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        bottomNavigationBar: BottomAppBar(
+          height: 80,
+        ),
         body: ConnectionMonitor(
           child: ConnectivityBannerHost(
             isConnected: isConnected,
@@ -66,8 +69,6 @@ class ConnectionMonitor extends StatefulWidget {
 
 class _ConnectionMonitorState extends State<ConnectionMonitor> {
   late final _connectivity = _connectivityStream();
-
-  
 
   Stream<ConnectivityResult> _connectivityStream() async* {
     final connectivity = Connectivity();
